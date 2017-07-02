@@ -1,6 +1,6 @@
 import vectorOp
 
-def readFromFile(file)
+def readFromFile(file):
   
   vector = " "
   vectorSplit = list()
